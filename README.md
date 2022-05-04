@@ -19,3 +19,14 @@
                                                               src="https://raw.githubusercontent.com/compmonk/compmonk/master/assets/icons/devpost.svg"/></a>
   &nbsp; &nbsp;
 </p>
+
+<hr />
+
+<p align='center'>
+  <a href="https://github.com/compmonk">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=compmonk&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Zubair%27s%20Github%20Stats" />
+  </a>
+  <a href="https://github.com/compmonk">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=compmonk&langs_count=8&theme=dracula&layout=compact" />
+  </a>
+</p>
